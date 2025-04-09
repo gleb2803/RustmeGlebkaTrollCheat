@@ -1,7 +1,7 @@
 import tkinter
 from tkinter import ttk
 import psutil
-
+import webbrowser
 
 #   Задаём переменые
 inject = False
